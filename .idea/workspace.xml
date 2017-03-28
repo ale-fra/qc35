@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388a851c-26ac-4ce7-825c-c79ce01c44a4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/analytics.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/colorbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/jquery.colorbox-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/jquery.slicknav.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/slicknav.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_11A.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_12A.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Staingate.org_files/tn_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,8 +16,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="145" column="16" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -190,17 +175,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490710406093</updated>
-      <workItem from="1490710407162" duration="9000" />
+      <workItem from="1490710407162" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9000" />
+    <option name="totallyTimeSpent" value="208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -227,5 +213,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="145" column="16" lean-forward="false" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
